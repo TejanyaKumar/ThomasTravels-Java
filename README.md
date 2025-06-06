@@ -33,10 +33,3 @@ Thomas Travels/
 2. Make sure your `Driver`, `Travel`, and `Test` classes are inside the `com` package.
 3. Right-click on `Test.java` > Run As > Java Application.
 
-## 📌 Author
-
-- **Your Name** (replace with your GitHub profile or real name)
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE) (add a LICENSE file if needed).
